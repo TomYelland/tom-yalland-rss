@@ -16,8 +16,8 @@ get '/feed.xml' do
     keywords = %w(tom yelland electronic dance trance)
     title = "The Journey"
     new_feed_url = "http://tom-yelland.herokuapp.com/feed.xml"
-    subtitle = "A Journey Through Dance Music"
-    description = "Tom Yelland presents a semi regular selection of the finest tracks, both current and classic."
+    subtitle = "Sunshine House Music"
+    description = "The best in Soulful, funky & vocal house with a touch of Garage thrown in for good measure. Podcasts released 1st of every month."
     website = "http://tomyelland.isoterra.co.uk/"
 
     maker.channel.title = title
